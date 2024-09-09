@@ -17,6 +17,7 @@ development of actionable insights
 #Business Gap
  • AR_Air needs to know the potential risks of aircraft, with emphasis on airplanes, to suit their 
 interests, address the objective, and answer their queries
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/aee6e686-2932-47c8-812b-5c761fc935d9">
 
 METHODOLOGY
  Secondary data source: 
